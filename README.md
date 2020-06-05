@@ -1,7 +1,7 @@
 <p align="center">
   <img width="400" src="screenshot.png">
   <h3 align="center">gh-box</h3>
-  <p align="center">Update a pinned gist to contain your GitHub profile data</p>
+  <p align="center">⚡️📌 Update a pinned gist to contain your GitHub profile data</p>
 </p>
 
 ---
@@ -17,7 +17,9 @@
 
 ### Project setup
 
-1. Fork this repo
+ 
+1. Generate a repo from this template by clicking [here](https://github.com/yg/gh-box/generate)
+1. Fill in the details and click `Create repository from template`
 1. Go to the repo **Settings > Secrets**
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
